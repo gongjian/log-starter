@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.gj.test.autoconfigure.LogProperties",
+      "name": "mylog",
+      "type": "com.gj.test.autoconfigure.LogProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.gj.test.autoconfigure.LogProperties",
+      "name": "mylog.exclude",
+      "type": "java.lang.String"
+    }
+  ]
+}
